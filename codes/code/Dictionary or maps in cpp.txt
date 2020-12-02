@@ -1,0 +1,38 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+#include <map>
+#include <string.h>
+using namespace std;
+
+
+int main() {
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+    map<string,int> dictionary;
+    int i,n,mapped;
+    string mapper;
+    cin>>n;
+    
+    for(i=0;i<n;i++){
+        cin>>mapper;
+        cin>>mapped;
+        dictionary.insert(pair<string,int>(mapper,mapped));
+        
+    }
+   while(!cin.eof()){
+       cin>>mapper;
+       map<string,int>::iterator itr = dictionary.find(mapper);
+        if(itr==dictionary.end()){
+            cout<<"Not found\n";
+        }
+        else {
+            cout<<mapper<<"="<<dictionary[mapper]<<"\n";
+        }
+   }
+   
+   
+ 
+    return 0;
+}

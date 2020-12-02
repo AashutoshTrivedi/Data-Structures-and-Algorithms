@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1564770228 source:c:\users\aashu\onedrive\desktop\c++\tictactoe\tictaetoe\main.cpp
+	<iostream>
+	<vector>
+	<random>
+	<time.h>
+	<string>
+	<bits/stdc++.h>
+
