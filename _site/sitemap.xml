@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/100-Days-of-DataScience/pages</loc>
+<loc>http://localhost:4000/Data-Structures-and-Algorithms/pages</loc>
 <lastmod>2020-11-02T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/100-Days-of-DataScience/Day0/</loc>
+<loc>http://localhost:4000/Data-Structures-and-Algorithms/Day0/</loc>
 <lastmod>2020-12-01T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/100-Days-of-DataScience/Day1/</loc>
+<loc>http://localhost:4000/Data-Structures-and-Algorithms/Day1/</loc>
 <lastmod>2020-12-01T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/100-Days-of-DataScience/</loc>
+<loc>http://localhost:4000/Data-Structures-and-Algorithms/</loc>
 </url>
 </urlset>
