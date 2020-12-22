@@ -22,3 +22,18 @@ int solve(int arr[], int i, int j)
   ]
 }
 ```
+
+Step 1: Find i and j which satisfies the conditions
+Step 2: Find base conditions
+Step 3: Find k loop scheme
+Step 4: Calculate ans from temp ans
+
+## Problems based on MCM
+
+ * MCM
+ * Printing MCM
+ * Evaluate expression to true/boolean parenthesization
+ * min/max value of expression
+ * Palindrome partitioning
+ * scramble string
+ * Egg dropping Problem 
